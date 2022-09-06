@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  host: "localhost"
+
+database:
+  dbport: 5432
+  dbhost: "localhost"
+  dbname: 
+  dbuser: "postgres"
+  dbpassword: "admin"
+
+keys:
+  secretkey: "Thiss1sVpriv5ATK44y"
